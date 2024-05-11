@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1706679166 source:c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\main.cpp
+	<iostream>
+	<Cliente.h>
+	<Compra.h>
+	<Pedido.h>
+
+1706675400 c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\include\cliente.h
+	<iostream>
+
+1706675399 c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\include\compra.h
+	<iostream>
+
+1706675399 c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\include\pedido.h
+	<iostream>
+
+1706679625 source:c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\src\cliente.cpp
+	"Cliente.h"
+
+1706679625 source:c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\src\compra.cpp
+	"Compra.h"
+
+1706679625 source:c:\users\acer\documents\programacion orientada a objetos\prog01-melquiades de gives humberto\src\pedido.cpp
+	"Pedido.h"
+

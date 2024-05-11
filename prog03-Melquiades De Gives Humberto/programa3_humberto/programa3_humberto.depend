@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1708925069 source:c:\users\acer\documents\programacion orientada a objetos\prog03-melquiades de gives humberto\programa3_humberto\src\carritodecompras.cpp
+	"CarritoDeCompras.h"
+	<iostream>
+
+1708924846 c:\users\acer\documents\programacion orientada a objetos\prog03-melquiades de gives humberto\programa3_humberto\include\carritodecompras.h
+	<string>
+
+1708925329 source:c:\users\acer\documents\programacion orientada a objetos\prog03-melquiades de gives humberto\programa3_humberto\main.cpp
+	"Cliente.h"
+	"CarritoDeCompras.h"
+	<iostream>
+
+1708925329 c:\users\acer\documents\programacion orientada a objetos\prog03-melquiades de gives humberto\programa3_humberto\include\cliente.h
+	<string>
+	"CarritoDeCompras.h"
+
+1708925637 source:c:\users\acer\documents\programacion orientada a objetos\prog03-melquiades de gives humberto\programa3_humberto\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+

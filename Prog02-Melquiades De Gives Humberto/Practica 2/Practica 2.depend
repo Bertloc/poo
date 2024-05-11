@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1695048757 source:c:\users\heroe\onedrive\documentos\programacion estructurada\practica 2\empleado.cpp
+	"Empleado.h"
+
+1694484031 c:\users\heroe\onedrive\documentos\programacion estructurada\practica 2\empleado.h
+	<iostream>
+
+1695588136 source:d:\lenguaje c++\practica 2\empleado.cpp
+	"Empleado.h"
+
+1695588044 d:\lenguaje c++\practica 2\empleado.h
+	<iostream>
+
+1695615534 source:d:\lenguaje c++\practica 2\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Tareas.h"
+	"Empresa.h"
+
+1695514346 d:\lenguaje c++\practica 2\tareas.h
+	<iostream>
+
+1695613894 d:\lenguaje c++\practica 2\empresa.h
+	<iostream>
+	"Tareas.h"
+	"Empleado.h"
+
+1695181644 source:d:\lenguaje c++\practica 2\tareas.cpp
+	"Tareas.h"
+
+1695615908 source:d:\lenguaje c++\practica 2\empresa.cpp
+	"Empresa.h"
+	"Tareas.h"
+	"Empleado.h"
+
+1708317979 source:c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\empleado.cpp
+	"Empleado.h"
+
+1708317980 c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\empleado.h
+	<iostream>
+
+1708317980 source:c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\empresa.cpp
+	"Empresa.h"
+	"Tareas.h"
+	"Empleado.h"
+
+1708317981 c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\empresa.h
+	<iostream>
+	"Tareas.h"
+	"Empleado.h"
+
+1708317982 c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\tareas.h
+	<iostream>
+
+1708317981 source:c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Tareas.h"
+	"Empresa.h"
+
+1708317982 source:c:\users\acer\downloads\prog02-alonso lomeli diego alejandro\practica 2\tareas.cpp
+	"Tareas.h"
+
+1708317981 source:c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Tareas.h"
+	"Empresa.h"
+
+1708317980 c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\empleado.h
+	<iostream>
+
+1708317982 c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\tareas.h
+	<iostream>
+
+1708317981 c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\empresa.h
+	<iostream>
+	"Tareas.h"
+	"Empleado.h"
+
+1708317982 source:c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\tareas.cpp
+	"Tareas.h"
+
+1708321776 source:c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\empresa.cpp
+	"Empresa.h"
+	"Tareas.h"
+	"Empleado.h"
+
+1708321808 source:c:\users\acer\documents\programacion orientada a objetos\prog02-melquiades de gives humberto\practica 2\empleado.cpp
+	"Empleado.h"
+
